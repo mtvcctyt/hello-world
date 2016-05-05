@@ -8,3 +8,4 @@ What algorithm can precisely simulate the possibility to get better by trainning
 What is emotion? Is it a tool for measuring score of an action or comparing different actions or just finding out the best action?
 What are the contributions of human's emotion for getting non-emotional skills?
 What algorithm or function can simulate the human's emotion?
+ 
